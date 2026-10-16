@@ -1,0 +1,27 @@
+{
+  "name": "P❤w3r Official Store",
+  "short_name": "P❤w3r",
+  "description": "Streetwear from W3, West London.",
+  "start_url": "index.html",
+  "display": "browser",
+  "background_color": "#F4F4F1",
+  "theme_color": "#121316",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
